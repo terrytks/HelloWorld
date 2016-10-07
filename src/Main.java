@@ -6,6 +6,8 @@ public class Main {
 		
 		
 		System.out.println("Hello World !");
+		System.out.println("TEST commit");
+		
 		
 		for (int i = 0; i < 5; i++) {
 			System.out.println("yoyoyo");
